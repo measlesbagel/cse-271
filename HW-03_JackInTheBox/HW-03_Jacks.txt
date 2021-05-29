@@ -1,0 +1,11 @@
+x	y	size	color	isOpen
+180	10	50	#2a0bf6	true
+40	187	50	#8f3e09	true
+173	117	50	#be732d	false
+200	199	50	#05ae84	true
+138	156	50	#6e69f0	false
+6	9	50	#981946	false
+189	94	50	#dd74b9	true
+37	39	50	#a2be73	true
+190	171	50	#fdea1a	true
+2	9	50	#e69446	false

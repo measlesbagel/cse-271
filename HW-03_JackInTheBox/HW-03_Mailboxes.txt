@@ -1,0 +1,11 @@
+x	y	size	color	isUp
+499	265	50	#de0055	true
+343	472	50	#028b38	true
+457	401	50	#1e2e28	false
+301	479	50	#218be6	true
+381	405	50	#5e319e	false
+471	380	50	#9a2bab	false
+414	469	50	#ca25d3	false
+437	281	50	#2ff73f	true
+324	425	50	#4dff5d	true
+344	470	50	#f71489	false
